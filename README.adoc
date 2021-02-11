@@ -1,3 +1,5 @@
+_Note: This library will no longer be maintained by Arduino._
+
 = Spacebrew Library for Arduino =
 
 This library allows an Arduino Yun to connect to the Spacebrew service.
